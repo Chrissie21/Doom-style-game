@@ -9,10 +9,9 @@ A retro-style 3D FPS game built using Python and Pygame, inspired by the classic
 - Smooth raycasting engine with textured walls
 - First-person movement and camera control
 - Shooting mechanics with weapon animation
-- Enemy AI with basic pathfinding or behavior
+- Enemy AI with basic pathfinding and behavior
 - Collision detection
-- Health and ammo system
-- HUD with health bar and minimap
+- Health and Damage
 - Sound effects and background music
 
 ## 📦 Requirements
