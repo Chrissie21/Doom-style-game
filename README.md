@@ -40,7 +40,7 @@ python3 main.py
 
 
 
-**Wondering where I got the Brains and the assets??**
+## Wondering where I got the Brains and the assets??
 Brains:
 ```bash
 https://fabiensanglard.net/doomIphone/doomClassicRenderer.php
