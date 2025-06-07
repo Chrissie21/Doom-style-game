@@ -2,7 +2,7 @@
 
 A retro-style 3D FPS game built using Python and Pygame, inspired by the classic **Doom** engine. This game features raycasting-based pseudo-3D graphics and enemy AI. — all created from scratch in a Python environment.
 
-![Screenshot](sreenshots/screenshot.png)
+![Screenshot](screenshots/screenshot.png)
 
 ## Features and whatever the hell I learned
 
