@@ -4,7 +4,7 @@ A retro-style 3D FPS game built using Python and Pygame, inspired by the classic
 
 ![Screenshot](screenshots/screenshot.png)
 
-## Features and whatever the hell I learned
+## Features and what I learned
 
 - Smooth raycasting engine with textured walls
 - First-person movement and camera control
